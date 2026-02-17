@@ -1,0 +1,2 @@
+a = ["pavan"]
+print(a)
